@@ -4,14 +4,14 @@ primetive_mailer
 
 **Встановлення:**
 
-git clone https://github.com/sova32/primetive_mailer.git
-cd primetive_mailer
-pip3 install email_validator
+  git clone https://github.com/sova32/primetive_mailer.git
+  cd primetive_mailer
+  pip3 install email_validator
 
 **Використання.**
 
-cd primetive_mailer
-python3 main.py
+  cd primetive_mailer
+  python3 main.py
 
 **Для пранків необхідно використовувати VPN!!!**
 
